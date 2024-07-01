@@ -40,7 +40,9 @@
 {"key":"csp_机器人","name":"雷蒙影视 | 🤖爱看","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy"},
 {"key":"drjs_爱看2","name":"雷蒙影视 | 👺爱看","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"drjs_爱看3","name":"雷蒙影视 | 👹爱看","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot3.js"},
-{"key":"drjs_雷蒙","name":"雷蒙影视 | 😎雷蒙","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙影视.js?type=url&params=./dr_py/json/采集静态.json"},
+{"key":"drjs_大全","name":"雷蒙影视 | 🎬大全","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视大全.js"},
+{"key":"drjs_雷蒙","name":"雷蒙影视 | 😎雷蒙","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=./dr_py/json/雷蒙资源静态.json"},
+{"key":"drjs_直播","name":"雷蒙影视 | 🤠直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=./dr_py/json/live2cms.json"},
 
 {"key":"vod_采集","name":"雷蒙影视 | 🚀采集","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://154.3.2.163/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_暴风","name":"雷蒙影视 | 🚀暴风","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://app.bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},

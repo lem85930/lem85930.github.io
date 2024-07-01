@@ -31,7 +31,7 @@ var rule = {
     headers: {'User-Agent': 'MOBILE_UA'},
     timeout: 5000, // class_name: '电影&电视剧&综艺&动漫',
     limit: 20,
-    search_limit: 5, // 搜索限制取前5个，可以注释掉，就不限制搜索
+    search_limit: 20, // 搜索限制取前5个，可以注释掉，就不限制搜索
     searchable: 1,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
     filterable: 1,//是否启用分类筛选,
@@ -160,7 +160,7 @@ var rule = {
             vod_name: '雷蒙资源',
             vod_id: 'update_info',
             vod_remarks: `版本:${rule.version}`,
-            vod_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png'
+            vod_pic: 'https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png'
         }];
         VODS = [];
         if (rule.classes) {
@@ -207,7 +207,7 @@ var rule = {
                 vod_content: rule.update_info.trim(),
                 vod_name: '更新日志',
                 type_name: '更新日志',
-                vod_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png',
+                vod_pic: 'https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png',
                 vod_remarks: `版本:${rule.version}`,
                 vod_play_from: '雷蒙影视',
                 // vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
